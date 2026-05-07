@@ -1,4 +1,4 @@
-# 🛡️ Random's Moderation Bot
+# 🛡️ Zyre Moderation Bot
 
 A powerful Discord moderation bot built with `discord.py`. Designed to provide advanced server management, advanced security, and community engagement tools.
 
