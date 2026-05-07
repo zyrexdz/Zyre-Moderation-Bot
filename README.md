@@ -53,4 +53,4 @@ A powerful Discord moderation bot built with `discord.py`. Designed to provide a
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ❤️ by RandomName*
+*Built with ❤️ by Zyre*
