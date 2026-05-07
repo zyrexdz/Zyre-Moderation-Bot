@@ -30,7 +30,7 @@ A powerful Discord moderation bot built with `discord.py`. Designed to provide a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/zyrexdz/Randoms-Moderation-Bot.git
+   git clone https://github.com/zyrexdz/Zyre-Moderation-Bot.git
    cd Randoms-Moderation-Bot
    ```
 
